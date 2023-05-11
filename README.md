@@ -1,4 +1,4 @@
-Bishal Timalsina
+
 
 # 💫 About Me:
 
