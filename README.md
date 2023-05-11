@@ -1,25 +1,10 @@
-### Hi there 👋
-
-<!--
-**timalsinab/timalsinab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bishal Timalsina
 
 # 💫 About Me:
 
  
 
-I’m a Computer Science student at Berea College. I’m passionate about software development and enjoy tackling complex problems with creative solutions. My areas of interest include web development and cybersecurity. I am constantly seeking new challenges to expand my knowledge and skills, and I am always looking for opportunities to collaborate on exciting projects and contribute to the open-source community. Let's connect and build something amazing together!
+I’m a Computer Science student at Berea College. I’m passionate about software development and enjoy tackling complex problems with creative solutions. I am constantly seeking new challenges to expand my knowledge and skills, and I am always looking for opportunities to collaborate on exciting projects and contribute to the open-source community. Let's connect and build something amazing together!
 
 <br>
 
@@ -39,7 +24,7 @@ I’m a Computer Science student at Berea College. I’m passionate about softwa
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramazanima/)
+[![LinkedIn](https://www.linkedin.com/in/timalsinab/)
 
  
 
