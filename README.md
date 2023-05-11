@@ -21,10 +21,9 @@ I’m a Computer Science student at Berea College. I’m passionate about softwa
  
 
  
-
 ## 🌐 Socials:
 
-[![LinkedIn](https://www.linkedin.com/in/timalsinab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timalsinab/)
 
  
 
@@ -50,7 +49,7 @@ I’m a Computer Science student at Berea College. I’m passionate about softwa
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ramazanima&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=timalsinab&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
 
